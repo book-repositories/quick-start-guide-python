@@ -11,9 +11,9 @@
 * 07 Strings
 * 08 Dictionaries
 * 09 Using External Libraries
+* 10 Testing
 
 Think about
-* 10 Testing
 * 11 Objects and Classes
 * 12 Web Scraping
 * 13 Data Management
