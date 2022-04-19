@@ -2,6 +2,7 @@
 
 *Learn an important language for Business Programming.*
 
+## Just Enough Python
 * 01 Hello World
 * 02 Numbers, Variables and Assignment
 * 03 Functions
@@ -10,11 +11,18 @@
 * 06 Going Loopy
 * 07 Strings
 * 08 Dictionaries
-* 09 Using External Libraries
+* 09 Importing Things
 
-* Objects and Classes
 * Files
 * Testing
+* Object Oriented Programming
+
+## Bridging The Gap, Knowledge to Application
+* Web Scraping
+* Using Databases
+* Visualising Data
+* Interfaces
+
 
 Workflow
 * Best Practice
@@ -34,8 +42,3 @@ Workflow
       * IDE/Editor: VSCode
 
 
-Bridging The Gap
-* Web Scraping
-* Data Management
-* Visualisation
-* Interfaces
