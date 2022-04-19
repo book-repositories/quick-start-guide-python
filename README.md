@@ -15,7 +15,7 @@
 
 * Files
 * Testing
-* Object Oriented Programming
+* Object Oriented Programming (see Just Enough OOP in Python)
 
 ## Bridging The Gap, Knowledge to Application
 * Web Scraping
