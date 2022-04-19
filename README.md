@@ -11,13 +11,18 @@
 * 06 Going Loopy
 * 07 Strings
 * 08 Dictionaries
-* 09 Importing Things
+* 09 Files
+* 10 Importing Things
+* 11 Object Oriented Programming (see Just Enough OOP in Python)
+* 12 Testing
 
-* Files
-* Testing
-* Object Oriented Programming (see Just Enough OOP in Python)
+* Taking it Further
+   * Regular Expressions
+   * Iterators
+   * Generstors
 
 ## Bridging The Gap, Knowledge to Application
+* Networking
 * Web Scraping
 * Using Databases
 * Visualising Data
