@@ -3,7 +3,7 @@
 *Learn an important language for Business Programming.*
 
 ## Just Enough Python
-* 01 Hello World [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+* 01 Hello World <a href="https://colab.research.google.com/github/michael-borck/just_enough_python/blob/main/01_hello_world.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * 02 Numbers, Variables and Assignment
 * 03 Functions
 * 04 Making Decisions
