@@ -11,11 +11,31 @@
 * 07 Strings
 * 08 Dictionaries
 * 09 Using External Libraries
-* 10 Testing
 
-Think about
-* 11 Objects and Classes
-* 12 Web Scraping
-* 13 Data Management
-* 14 Visualisation
-* 15 Interfaces
+* Objects and Classes
+* Files
+* Testing
+
+Workflow
+* Best Practice
+
+* Assemble Your Own Compoments
+    * Colab Workflow (Cloud Based, Zero Install)
+      * GitHub (File Browser, Version Control, Sharing)
+      * Colab (IDE/Editor) Alternatives: Paperspace...
+      * Binder, nbviewer, GitHub: Sharing/Production
+      * Development: nbdev, nbconvert for module and package development
+    * Anaconda (Local Development)
+      * GitHub (Version Control)
+      * Jupyter Lab (Editor, File Browser) Alternatives: VSCode
+      * Binder, nbviewer, GitHub: Sharing/Production
+    * Scripts Based
+      * Anaconda (miniconda)
+      * IDE/Editor: VSCode
+
+
+Bridging The Gap
+* Web Scraping
+* Data Management
+* Visualisation
+* Interfaces
