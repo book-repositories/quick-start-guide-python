@@ -1,0 +1,39 @@
+project:
+  type: book
+
+book:
+  title: "Quick Start Guide Python"
+  author: "Michael Borck"
+  chapters:
+    - notebooks/00_contents.ipynb
+    - notebooks/01_hello_world.ipynb
+    - notebooks/02_basic_python_syntax.ipynb
+    - notebooks/03_values.ipynb
+    - notebooks/04_variables.ipynb
+    - notebooks/05_output.ipynb
+    - notebooks/06_input.ipynb
+    - notebooks/07_operators.ipynb
+    - notebooks/08_using_functions.ipynb
+    - notebooks/09_creating_functions.ipynb
+    - notebooks/10_making_decisions.ipynb
+    - notebooks/11_lists.ipynb
+    - notebooks/12_going_loopy.ipynb
+    - notebooks/13_strings.ipynb
+    - notebooks/14_dictionaries.ipynb
+    - notebooks/15_files.ipynb
+    - notebooks/16_errors_and_exceptions.ipynb
+    - notebooks/17_debugging.ipynb
+    - notebooks/18_testing.ipynb
+    - notebooks/19_modules_and_packages.ipynb
+    - notebooks/20_orientating_your_objects_ipynb.ipynb
+    - notebooks/21_how_to_run_python_code.ipynb
+    - notebooks/22_how_to_install_python_testing.ipynb
+    - notebooks/23_getting_help.ipynb
+
+format:
+  pdf: default
+  html:
+    toc: true
+    number-sections: true
+  epub: default
+
